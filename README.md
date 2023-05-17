@@ -6,7 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reetinder932&label=Profile%20views&color=0e75b6&style=flat" alt="reetinder932" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:
+![image](https://th.bing.com/th/id/OIP.237QhudiSVslBI_CUweU2QHaE7?pid=ImgDet&rs=1)
+</h3>
 <p align="left">
 </p>
 
