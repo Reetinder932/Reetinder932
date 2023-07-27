@@ -10,7 +10,7 @@
 
 <p><img align="top"  src="https://github-readme-stats.vercel.app/api/top-langs?username=reetinder932&show_icons=true&locale=en&layout=compact" alt="reetinder932" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=reetinder932&show_icons=true&locale=en" alt="reetinder932" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reetinder932&show_icons=true&locale=en" alt="reetinder932" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=reetinder932&" alt="reetinder932" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reetinder932&" alt="reetinder932" /></p>
 
